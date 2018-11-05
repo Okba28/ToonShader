@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: f7376714958d92548a4a3c8d7d26ea25
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: accessory
+    100002: cloth_00
+    100004: hair_00
+    100006: hair_01
+    100008: hair_02
+    100010: hair_04
+    100012: hair_07
+    100014: head
+    100016: Head_Collision
+    100018: L_a_front_hair_00
+    100020: L_arm
+    100022: L_b_front_hair_00
+    100024: L_B_skirt_00
+    100026: L_B_skirt_01
+    100028: L_bust_down
+    100030: L_c_front_hair_00
+    100032: L_c_front_hair_01
+    100034: L_cloth_00
+    100036: L_elbow
+    100038: L_F_skirt_00
+    100040: L_F_skirt_01
+    100042: L_finger_a_00
+    100044: L_finger_a_01
+    100046: L_finger_a_02
+    100048: L_finger_b_00
+    100050: L_finger_b_01
+    100052: L_finger_b_02
+    100054: L_finger_c_00
+    100056: L_finger_c_01
+    100058: L_finger_c_02
+    100060: L_finger_d_00
+    100062: L_finger_d_01
+    100064: L_finger_d_02
+    100066: L_finger_e_00
+    100068: L_finger_e_01
+    100070: L_finger_e_02
+    100072: L_foot
+    100074: L_hair_00
+    100076: L_hair_01
+    100078: L_hair_02
+    100080: L_hair_03
+    100082: L_hair_04
+    100084: L_hand
+    100086: L_leg
+    100088: L_leg_02
+    100090: L_out_hair_00
+    100092: L_out_hair_01
+    100094: L_out_hair_02
+    100096: L_S_skirt_00
+    100098: L_S_skirt_01
+    100100: L_shoulder
+    100102: L_side_hair_00
+    100104: L_side_hair_01
+    100106: L_side_hair_02
+    100108: L_sub_arm
+    100110: L_sub_elbow
+    100112: L_sub_finger
+    100114: L_sub_shoulder
+    100116: L_toe
+    100118: L_weapon
+    100120: neck
+    100122: Nepgear_Cosplay
+    100124: //RootNode
+    100126: R_a_front_hair_00
+    100128: R_arm
+    100130: R_b_front_hair_00
+    100132: R_B_skirt_00
+    100134: R_B_skirt_01
+    100136: R_bust_down
+    100138: R_c_front_hair_00
+    100140: R_c_front_hair_01
+    100142: R_cloth_00
+    100144: R_elbow
+    100146: R_F_skirt_00
+    100148: R_F_skirt_01
+    100150: R_finger_a_00
+    100152: R_finger_a_01
+    100154: R_finger_a_02
+    100156: R_finger_b_00
+    100158: R_finger_b_01
+    100160: R_finger_b_02
+    100162: R_finger_c_00
+    100164: R_finger_c_01
+    100166: R_finger_c_02
+    100168: R_finger_d_00
+    100170: R_finger_d_01
+    100172: R_finger_d_02
+    100174: R_finger_e_00
+    100176: R_finger_e_01
+    100178: R_finger_e_02
+    100180: R_foot
+    100182: R_hair_00
+    100184: R_hair_01
+    100186: R_hair_02
+    100188: R_hair_03
+    100190: R_hair_04
+    100192: R_hand
+    100194: R_leg
+    100196: R_leg_02
+    100198: R_out_hair_00
+    100200: R_out_hair_01
+    100202: R_out_hair_02
+    100204: R_S_skirt_00
+    100206: R_S_skirt_01
+    100208: R_shoulder
+    100210: R_side_hair_00
+    100212: R_side_hair_01
+    100214: R_side_hair_02
+    100216: R_sub_arm
+    100218: R_sub_elbow
+    100220: R_sub_finger
+    100222: R_sub_shoulder
+    100224: R_toe
+    100226: R_weapon
+    100228: root
+    100230: spine_00
+    100232: spine_01
+    100234: spine_02
+    400000: accessory
+    400002: cloth_00
+    400004: hair_00
+    400006: hair_01
+    400008: hair_02
+    400010: hair_04
+    400012: hair_07
+    400014: head
+    400016: Head_Collision
+    400018: L_a_front_hair_00
+    400020: L_arm
+    400022: L_b_front_hair_00
+    400024: L_B_skirt_00
+    400026: L_B_skirt_01
+    400028: L_bust_down
+    400030: L_c_front_hair_00
+    400032: L_c_front_hair_01
+    400034: L_cloth_00
+    400036: L_elbow
+    400038: L_F_skirt_00
+    400040: L_F_skirt_01
+    400042: L_finger_a_00
+    400044: L_finger_a_01
+    400046: L_finger_a_02
+    400048: L_finger_b_00
+    400050: L_finger_b_01
+    400052: L_finger_b_02
+    400054: L_finger_c_00
+    400056: L_finger_c_01
+    400058: L_finger_c_02
+    400060: L_finger_d_00
+    400062: L_finger_d_01
+    400064: L_finger_d_02
+    400066: L_finger_e_00
+    400068: L_finger_e_01
+    400070: L_finger_e_02
+    400072: L_foot
+    400074: L_hair_00
+    400076: L_hair_01
+    400078: L_hair_02
+    400080: L_hair_03
+    400082: L_hair_04
+    400084: L_hand
+    400086: L_leg
+    400088: L_leg_02
+    400090: L_out_hair_00
+    400092: L_out_hair_01
+    400094: L_out_hair_02
+    400096: L_S_skirt_00
+    400098: L_S_skirt_01
+    400100: L_shoulder
+    400102: L_side_hair_00
+    400104: L_side_hair_01
+    400106: L_side_hair_02
+    400108: L_sub_arm
+    400110: L_sub_elbow
+    400112: L_sub_finger
+    400114: L_sub_shoulder
+    400116: L_toe
+    400118: L_weapon
+    400120: neck
+    400122: Nepgear_Cosplay
+    400124: //RootNode
+    400126: R_a_front_hair_00
+    400128: R_arm
+    400130: R_b_front_hair_00
+    400132: R_B_skirt_00
+    400134: R_B_skirt_01
+    400136: R_bust_down
+    400138: R_c_front_hair_00
+    400140: R_c_front_hair_01
+    400142: R_cloth_00
+    400144: R_elbow
+    400146: R_F_skirt_00
+    400148: R_F_skirt_01
+    400150: R_finger_a_00
+    400152: R_finger_a_01
+    400154: R_finger_a_02
+    400156: R_finger_b_00
+    400158: R_finger_b_01
+    400160: R_finger_b_02
+    400162: R_finger_c_00
+    400164: R_finger_c_01
+    400166: R_finger_c_02
+    400168: R_finger_d_00
+    400170: R_finger_d_01
+    400172: R_finger_d_02
+    400174: R_finger_e_00
+    400176: R_finger_e_01
+    400178: R_finger_e_02
+    400180: R_foot
+    400182: R_hair_00
+    400184: R_hair_01
+    400186: R_hair_02
+    400188: R_hair_03
+    400190: R_hair_04
+    400192: R_hand
+    400194: R_leg
+    400196: R_leg_02
+    400198: R_out_hair_00
+    400200: R_out_hair_01
+    400202: R_out_hair_02
+    400204: R_S_skirt_00
+    400206: R_S_skirt_01
+    400208: R_shoulder
+    400210: R_side_hair_00
+    400212: R_side_hair_01
+    400214: R_side_hair_02
+    400216: R_sub_arm
+    400218: R_sub_elbow
+    400220: R_sub_finger
+    400222: R_sub_shoulder
+    400224: R_toe
+    400226: R_weapon
+    400228: root
+    400230: spine_00
+    400232: spine_01
+    400234: spine_02
+    2100000: 'Material #59'
+    2100002: 'Material #60'
+    2100004: 'Material #61'
+    2100006: 'Material #62'
+    4300000: Nepgear_Cosplay
+    9500000: //RootNode
+    13700000: Nepgear_Cosplay
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #59'
+    second: {fileID: 2100000, guid: 025c16991ff45e041a74aeccc0bb04f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #60'
+    second: {fileID: 2100000, guid: a89f4ade1c7e3c441a2eb428f2eea772, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #61'
+    second: {fileID: 2100000, guid: f49ddb3c9e725204092194c0245fa1ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #62'
+    second: {fileID: 2100000, guid: b65878b226e23af4487a2a8ef65c5c35, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.127
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
